@@ -1,4 +1,4 @@
-# STUDENT RESULT MANAGEMENT SYSTEM
+# Institute Result Management System
 
 This repository contains the code for a Student Result Management System developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack. The system allows administrators, faculty members, and students to perform various tasks related to managing student information, test scores, attendance, and more.
 
@@ -39,5 +39,3 @@ __7. `JWT` :__ JWT (JSON Web Token) is a popular open standard for securely tran
 12. Error display feature available with form validation to provide a smooth user experience.
 13. The system features a modern UI design for an appealing and user-friendly interface.
 
-
-# Institute-Result-Management-System
